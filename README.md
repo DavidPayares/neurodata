@@ -1,4 +1,4 @@
-## `NeuroData` Repository for `Neuronorm` dependencies!
+## `NeuroData` repository for `Neuronorm`!
 
 This repository contains example data to test the [`NeuroNorm`](https://github.com/DavidPayares/neuronorm) package.
 
